@@ -6,7 +6,8 @@ print("characters: Spiderman and Aunt May")
 
 print("Spider-man was swinging through Queens when he realized he was running late")
 print(
-    "He landed on a building and checked his phone to check his phone only to see 17 missed calls from aunt may."
+    "He landed on a building and checked his phone only to see 17 missed calls from aunt may."
 )
 print("Where are you? she texted. You said you were going to the store")
+print("before he could answer he heard someone yell out he stole my purse!!")
 # howdy partner
