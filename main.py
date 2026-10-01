@@ -11,5 +11,8 @@ print(
 print("Where are you? she texted. You said you were going to the store")
 print("before he could answer he heard someone yell out he stole my purse!!")
 print("He swung over and chased the guy all the way to the subway")
+print(
+    "Right before the train doors closed, Spider-Man THWIPPED his webs yanking the theif off the train"
+)
 
 # howdy partner
