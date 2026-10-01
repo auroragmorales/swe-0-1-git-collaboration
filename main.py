@@ -14,5 +14,5 @@ print("He swung over and chased the guy all the way to the subway")
 print(
     "Right before the train doors closed, Spider-Man THWIPPED his webs yanking the theif off the train"
 )
-
+print("After catching the thief, he gave back the purse amd rushed to the store ")
 # howdy partner
