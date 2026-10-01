@@ -15,4 +15,7 @@ print(
     "Right before the train doors closed, Spider-Man THWIPPED his webs yanking the theif off the train"
 )
 print("After catching the thief, he gave back the purse amd rushed to the store ")
+print(
+    "Because even super heroes have errands too, (peter gets home and winks at us breaking the 4th wall)"
+)
 # howdy partner
